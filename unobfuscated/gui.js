@@ -1,3 +1,4 @@
+javascript:
 /**
 * @license StewartPrivateLicense-2.0.1
 * Copyright (c) Aerell McKnight 2023
